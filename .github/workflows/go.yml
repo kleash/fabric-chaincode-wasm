@@ -50,3 +50,4 @@ jobs:
       env:
         GOPATH: /home/runner/work/fabric-chaincode-wasm/go
         GO111MODULE: off
+        PATH: $PATH:/home/runner/work/fabric-chaincode-wasm/go/bin 
